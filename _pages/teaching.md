@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: post
 permalink: /Teaching/
 title: Teaching
 nav: true
