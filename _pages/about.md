@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an associate at Cornerstone Research focusing on antitrust casework. I received a PhD in economics from UCLA where my research focused on topics in empirical industrial organization.
+I am an associate at Cornerstone Research primarily working on antitrust casework. I received a PhD in economics from UCLA where my research focused on topics in empirical industrial organization.
 
 At Cornerstone Research I analyze complex antitrust and competition matters. I have experience with mergers in a variety of industries including supporting the Alaska Airlines/Hawaiian Airlines merger through the regulatory review process.
 
