@@ -39,9 +39,7 @@
       "position": "Analyst",
       "startDate": "2016-07-01",
       "endDate": "2018-08-01",
-      "summary": >
-      "Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
-      Utilized data science techniques and econometric methods to calculate damages and show causality.",
+      "summary": "Analyzed economic and financial data to write reports and support PhD experts during legal testimony.\nUtilized data science techniques and econometric methods to calculate damages and show causality.",
       "highlights": ["Hospital Merger", "ERISA", "Rule 10b-5"]
     }
   ],
