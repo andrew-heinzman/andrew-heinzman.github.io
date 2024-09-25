@@ -5,93 +5,80 @@
       value: Andrew Heinzman
     - name: Positions
       value: Economist, Data Scientist
-    - name: Languages
-      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Economics
+      institution: University of California, Los Angeles (UCLA)
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Job Market Paper: New Product Introductions, Retailer Learning, and Pricing
+    - title: MA in Economics
+      institution: University of California, Los Angeles (UCLA)
+      year: 2020
+    - title: BA in Economics and Statistics
+      institution: University of Virginia
+      year: 2016
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate
+      institution: Cornerstone Research
+      year: 2023 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Experienced in complex antitrust and competition matters. 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Evaluated mergers in a variety of industries including supporting the Alaska Airlines/Hawaiian Airlines merger through the regulatory review process.
+        - title: Economic Modeling
+          contents: Employed structural economic models to simulate the competitive effects and consumer impacts of mergers.
+        - title: Team Leadership
+          contents: Managed and evaluated teams of 3-6 data analysts.
+          
+    - title: Economist - Intern
+      institution: Amazon
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Designed auction mechanisms to efficiently fill short-term staffing needs.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Analyst
+      institution: Cornerstone Research
+      year: 2016-2018
 
     - title: Professor of Theoretical Physics
       institution: Karl-Ferdinand University, Prague, Czechoslovakia
       year: 1911 - 1917
       description:
+        - Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
+        - Utilized data science techniques and econometric methods to calculate damages and show causality.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Research
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - title: New Product Introductions, Retailer Learning, and Pricing
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - I study how retailers introduce new products and learn to set prices across a network of stores. Retailers are often uncertain about the demand for new products which makes setting an appropriate price difficult. To learn about demand for a product that is new to a market, retailers use demand for existing, similar products and demand in similar markets. As a result, retailers know the least about the demand for products that are new to all markets and have few substitutes. When retailers are uncertain about the demand for a new product, they introduce the product to an initial subset of stores rather than their full network. The retailer then learns about demand by observing sales in that market and similar markets. The result is that retailers learn about demand and set prices for new products based on their experience with close substitutes and by utilizing similarities in demand across their network of stores.
+        - Pricing Strategy, Structural Learning, Supermarkets
+        - <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280086">link</a>
+    - title: High Frequency Traders Slow Information Revelation
       items:
-        - Max Planck Medal
+        - Modern financial markets are often divided on two dimensions, information and speed. Investors focused on uncovering and profiting from new information compete with high frequency traders (HFTs), who have invested in a speed advantage rather than uncovering new information. I examine the competition between these two types of traders to better understand how HFTs impact market outcomes. In a dynamic model, I study the impacts on market liquidity and the speed at which new information is incorporated into prices. HFT's speed advantage reduces the speed at which new information is incorporated into prices and improves liquidity (as measured by bid-ask spreads). As the speed of HFTs increases relative to information investors, information investors reduce their trading intensity, slowing the revelation of new information.
+        - High Frequency Trading, "Economic Theory
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Empirical Industrial Organization
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+        - Pricing
+        - Product Selection
+        - Demand Estimation
+        - Structural Modeling
+        - Simulated Competition
+        - Machine Learning
 
-- title: Other Interests
+- title: Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - R, SQL, Python
