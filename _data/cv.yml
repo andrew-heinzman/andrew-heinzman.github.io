@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Andrew Heinzman
+    - name: Location
+      value: Washington DC
     - name: Positions
       value: Economist, Data Scientist
 
@@ -45,6 +47,9 @@
     - title: Analyst
       institution: Cornerstone Research
       year: 2016-2018
+      description:
+        - Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
+        - Utilized data science techniques and econometric methods to calculate damages and show causality.
 
 - title: Research
   type: nested_list
@@ -56,7 +61,7 @@
     - title: High Frequency Traders Slow Information Revelation
       items:
         - <b>Abstract</b> Modern financial markets are often divided on two dimensions, information and speed. Investors focused on uncovering and profiting from new information compete with high frequency traders (HFTs), who have invested in a speed advantage rather than uncovering new information. I examine the competition between these two types of traders to better understand how HFTs impact market outcomes. In a dynamic model, I study the impacts on market liquidity and the speed at which new information is incorporated into prices. HFT's speed advantage reduces the speed at which new information is incorporated into prices and improves liquidity (as measured by bid-ask spreads). As the speed of HFTs increases relative to information investors, information investors reduce their trading intensity, slowing the revelation of new information.
-        - High Frequency Trading, "Economic Theory
+        - High Frequency Trading, Economic Theory
 
 - title: Academic Interests
   type: list
@@ -72,4 +77,6 @@
 - title: Skills
   type: list
   contents:
-    - R, SQL, Python
+    - R
+    - SQL
+    - Python
