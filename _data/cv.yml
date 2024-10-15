@@ -34,16 +34,16 @@
           contents:
             - Evaluated mergers in a variety of industries including supporting the Alaska Airlines/Hawaiian Airlines merger through the regulatory review process.
         - title: Economic Modeling
-          contents: Employed structural economic models to simulate the competitive effects and consumer impacts of mergers.
+          contents: 
+            - Employed structural economic models to simulate the competitive effects and consumer impacts of mergers.
         - title: Team Leadership
-          contents: Managed and evaluated teams of 3-6 data analysts.
-          
+          contents: 
+            - Managed and evaluated teams of 3-6 data analysts.
     - title: Economist - Intern
       institution: Amazon
       year: 2022
       description:
         - Designed auction mechanisms to efficiently fill short-term staffing needs.
-
     - title: Analyst
       institution: Cornerstone Research
       year: 2016-2018
