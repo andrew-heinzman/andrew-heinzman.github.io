@@ -37,10 +37,10 @@
   --global-warning-block-bg: #fff8d8;
   --global-warning-block-text: #6b5900;
   --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
+  --global-danger-block: #{$blue-color};
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  --global-danger-block-title: #{$blue-color};
 
   #light-toggle-system {
     padding-left: 10px;
@@ -106,10 +106,10 @@ html[data-theme="dark"] {
   --global-warning-block-bg: #fff8d8;
   --global-warning-block-text: #6b5900;
   --global-warning-block-title: #b29400;
-  --global-danger-block: #c00;
+  --global-danger-block: #{$blue-color};
   --global-danger-block-bg: #ffe0e0;
   --global-danger-block-text: #600;
-  --global-danger-block-title: #c00;
+  --global-danger-block-title: #{$blue-color};
 
   .repo-img-light {
     display: none;
