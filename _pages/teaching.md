@@ -15,7 +15,7 @@ nav_order: 2
         <h5 class="font-weight-bold">Microeconomic Theory</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold blue-color darken-1 text-uppercase align-middle"  target="_blank">
+        <span class="badge font-weight-bold #0076df darken-1 text-uppercase align-middle"  target="_blank">
             Econ 11
         </span>
       </div>
@@ -32,7 +32,7 @@ nav_order: 2
         <h5 class="font-weight-bold">Economics Toolkit</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold blue-color darken-1 text-uppercase align-middle"  target="_blank">
+        <span class="badge font-weight-bold #0076df darken-1 text-uppercase align-middle"  target="_blank">
             Econ 97
         </span>
       </div>
@@ -48,7 +48,7 @@ nav_order: 2
         <h5 class="font-weight-bold">Economics for Everyone</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold blue-color darken-1 text-uppercase align-middle"  target="_blank">
+        <span class="badge font-weight-bold #0076df darken-1 text-uppercase align-middle"  target="_blank">
             Econ 5
         </span>
       </div>
@@ -64,7 +64,7 @@ nav_order: 2
         <h5 class="font-weight-bold">Pricing and Strategy</h5>
       </div>
       <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold blue-color darken-1 text-uppercase align-middle"  target="_blank">
+        <span class="badge font-weight-bold #0076df darken-1 text-uppercase align-middle"  target="_blank">
             Econ 106P
         </span>
       </div>
