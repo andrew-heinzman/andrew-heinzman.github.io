@@ -22,9 +22,6 @@ nav_order: 2
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Instructor: Summer 2021</h6>
     <h6 class="font-italic mt-2 mt-sm-0">Teaching Assistant: Winter 2020, Spring 2020, Fall 2020, Spring 2021, Winter 2022</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Undergraduate-level introduction to microeconomics utilizing calculus.</li>
-    </ul>
   </div>
 </div>
 
@@ -36,10 +33,42 @@ nav_order: 2
       </div>
       <div class="col-sm-2 text-left text-sm-right">
         <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle"  target="_blank">
-            Econ 11
+            Econ 97
         </span>
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Instructor: Fall 2021</h6>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Economics for Everyone</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle"  target="_blank">
+            Econ 5
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Teaching Assistant: Winter 2021, Spring 2022</h6>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 class="font-weight-bold">Pricing and Strategy</h5>
+      </div>
+      <div class="col-sm-2 text-left text-sm-right">
+        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle"  target="_blank">
+            Econ 106P
+        </span>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Teaching Assistant: Fall 2019</h6>
   </div>
 </div>
