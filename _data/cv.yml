@@ -30,26 +30,20 @@
       institution: Cornerstone Research
       year: 2023 - present
       description:
-        - title: Experienced in complex antitrust and competition matters. 
-          contents:
-            - Evaluated mergers in a variety of industries including supporting the Alaska Airlines/Hawaiian Airlines merger through the regulatory review process.
-        - title: Economic Modeling
-          contents: 
-            - Employed structural economic models to simulate the competitive effects and consumer impacts of mergers.
-        - title: Team Leadership
-          contents: 
-            - Managed and evaluated teams of 3-6 data analysts.
+        - Experienced in antitrust casework on topics including mergers, algorithmic collusion, and vertical integration. Conducted economic analysis that led to Alaska Airlines, Hawaiian Airlines merger clearance by the DOJ.
+        - Built models of demand and supply to simulate consumer choices and predict the impact of policy choices on prices and sales.
+        - Designated and managed teams of 3–6 data analysts for 9 month long projects in order to perform data cleaning, data visualization, and document reviews.
     - title: Economist - Intern
       institution: Amazon
       year: 2022
       description:
-        - Designed auction mechanisms to efficiently fill short-term staffing needs.
+        - Worked on the People Experience and Technology Central Science (PXTCS) designing auction mechanisms to optimize staffing levels.
     - title: Analyst
       institution: Cornerstone Research
       year: 2016-2018
       description:
         - Analyzed economic and financial data to write reports and support PhD experts during legal testimony.
-        - Utilized data science techniques and econometric methods to calculate damages and show causality.
+        - Utilized data science techniques such as regression analysis, big data management, and data visualization to calculate damages and show causality.
 
 - title: Research
   type: nested_list
