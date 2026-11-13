@@ -26,9 +26,14 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Applied Scientist
+      institution: Upstart
+      year: 2025 - present
+      description:
+        - Applied scientist working on home equity lines of credit (HELOCs).
     - title: Associate
       institution: Cornerstone Research
-      year: 2023 - present
+      year: 2023 - 2025
       description:
         - Experienced in antitrust casework on topics including mergers, algorithmic collusion, and vertical integration. Conducted economic analysis that led to Alaska Airlines, Hawaiian Airlines merger clearance by the DOJ.
         - Built models of demand and supply to simulate consumer choices and predict the impact of policy choices on prices and sales.
