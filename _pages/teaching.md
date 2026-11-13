@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Teaching/
+permalink: /teaching/
 title: Teaching
 nav: true
 nav_order: 2
